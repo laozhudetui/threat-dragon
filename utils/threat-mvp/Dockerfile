@@ -1,4 +1,4 @@
-FROM python:3.6-slim
+FROM python:3.11.0b5-slim
 
 ARG ssh_prv_key
 ARG ssh_pub_key
